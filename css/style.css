@@ -19015,4 +19015,11 @@ section {
   background: #f1efef;
 }
 
+@media (max-width: 991px) {
+  #mapa {
+    width: 380px;
+    height: 410px;
+  }
+}
+
 /*# sourceMappingURL=maps/style.css.map */

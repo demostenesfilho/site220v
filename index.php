@@ -47,7 +47,9 @@
 							<a class="nav-link" href="#testimonial">A voz do cliente</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link btn btn-success" href="https://api.whatsapp.com/send/?phone=5581996346559&text&app_absent=0"><img src="https://img.icons8.com/pastel-glyph/20/ffffff/whatsapp--v2.png"/> (81) 99634-6559</a>
+							<a class="nav-link btn btn-success" href="https://api.whatsapp.com/send/?phone=5581996346559&text&app_absent=0"><svg style="width:24px;height:24px" viewBox="0 0 24 24">
+    <path fill="currentColor" d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 15 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M8.53 7.33C8.37 7.33 8.1 7.39 7.87 7.64C7.65 7.89 7 8.5 7 9.71C7 10.93 7.89 12.1 8 12.27C8.14 12.44 9.76 14.94 12.25 16C12.84 16.27 13.3 16.42 13.66 16.53C14.25 16.72 14.79 16.69 15.22 16.63C15.7 16.56 16.68 16.03 16.89 15.45C17.1 14.87 17.1 14.38 17.04 14.27C16.97 14.17 16.81 14.11 16.56 14C16.31 13.86 15.09 13.26 14.87 13.18C14.64 13.1 14.5 13.06 14.31 13.3C14.15 13.55 13.67 14.11 13.53 14.27C13.38 14.44 13.24 14.46 13 14.34C12.74 14.21 11.94 13.95 11 13.11C10.26 12.45 9.77 11.64 9.62 11.39C9.5 11.15 9.61 11 9.73 10.89C9.84 10.78 10 10.6 10.1 10.45C10.23 10.31 10.27 10.2 10.35 10.04C10.43 9.87 10.39 9.73 10.33 9.61C10.27 9.5 9.77 8.26 9.56 7.77C9.36 7.29 9.16 7.35 9 7.34C8.86 7.34 8.7 7.33 8.53 7.33Z" />
+</svg> (81) 99634-6559</a>
 						</li>
 					</ul>
 				</div>
@@ -322,41 +324,7 @@
 					</div>
 				</div>
 			</section>
-			<section class="contactus" id="contact">
-				<div class="container">
-					<div class="row mb-5 pb-5">
-						<div class="col-sm-5" data-aos="fade-up" data-aos-offset="-500">
-							<img src="images/contact.jpg" alt="contact" class="img-fluid">
-						</div>
-						<div class="col-sm-7" data-aos="fade-up" data-aos-offset="-500">
-							<h3 class="font-weight-medium text-dark mt-5 mt-lg-0">Got A Problem</h3>
-							<h5 class="text-dark mb-5">Lorem ipsum dolor sit amet, consectetur pretium</h5>
-							<form>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form-group">
-											<input type="text" class="form-control" id="name" placeholder="Name*">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form-group">
-											<input type="email" class="form-control" id="mail" placeholder="Email*">
-										</div>
-									</div>
-									<div class="col-sm-12">
-										<div class="form-group">
-											<textarea name="message" id="message" class="form-control" placeholder="Message*" rows="5"></textarea>
-										</div>
-									</div>
-									<div class="col-sm-12">
-										<a href="#" class="btn btn-secondary">SEND</a>
-									</div>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-			</section>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.9584525589826!2d-35.976958584922386!3d-8.306927785881696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7a98b8bf7053965%3A0x8fc07ae9e2aecf5b!2zMjIwdiBTb2x1w6fDtWVzIEVsw6l0cmljYXM!5e0!3m2!1spt-BR!2sbr!4v1619314597973!5m2!1spt-BR!2sbr" width="1500" height="600" style="border:0;" allowfullscreen="" loading="lazy" id="mapa"></iframe>
 		</div>
 		<footer class="footer">
 			<div class="footer-top">
@@ -364,26 +332,22 @@
 					<div class="row">
 						<div class="col-sm-6">
 							<address>
-								<p>143 castle road 517</p>
-								<p class="mb-4">district, kiyev port south Canada</p>
+								<p>Rua Valter Pinto, 198 Cidade Alta</p>
+								<p class="mb-4">Caruaru - Pernambuco</p>
 								<div class="d-flex align-items-center">
-									<p class="mr-4 mb-0">+3 123 456 789</p>
-									<a href="mailto:info@yourmail.com" class="footer-link">info@yourmail.com</a>
-								</div>
-								<div class="d-flex align-items-center">
-									<p class="mr-4 mb-0">+1 222 345 342</p>
-									<a href="mailto:Marshmallow@yourmail.com" class="footer-link">Marshmallow@yourmail.com</a>
+									<p class="mr-4 mb-0">(81) 99634-6559</p>
+									<a href="mailto:eletrica220v.caruaru@gmail.com" class="footer-link">eletrica220v.caruaru@gmail.com</a>
 								</div>
 							</address>
 							<div class="social-icons">
 								<h6 class="footer-title font-weight-bold">
-									Social Share
+									Redes Sociais
 								</h6>
 								<div class="d-flex">
-									<a href="#"><i class="mdi mdi-github-circle"></i></a>
+									<a href="#"><i class="mdi mdi-instagram"></i></a>
 									<a href="#"><i class="mdi mdi-facebook-box"></i></a>
-									<a href="#"><i class="mdi mdi-twitter"></i></a>
-									<a href="#"><i class="mdi mdi-dribbble"></i></a>
+									<a href="#"><i class="mdi mdi-whatsapp"></i></a>
+									<a href="#"><i class="mdi mdi-google"></i></a>
 								</div>
 							</div>
 						</div>
@@ -426,15 +390,7 @@
 				<div class="container">
 					<div class="d-flex justify-content-between align-items-center">
 						<div class="d-flex align-items-center">
-							<img src="images/logo.svg" alt="logo" class="mr-3">
-							<p class="mb-0 text-small pt-1">© 2019-2020 <a href="https://www.bootstrapdash.com" class="text-white" target="_blank">BootstrapDash</a>. All rights reserved.</p>
-						</div>
-						<div>
-							<div class="d-flex">
-								<a href="#" class="text-small text-white mx-2 footer-link">Privacy Policy </a>          
-								<a href="#" class="text-small text-white mx-2 footer-link">Customer Support </a>
-								<a href="#" class="text-small text-white mx-2 footer-link">Careers </a>
-							</div>
+							<p class="mb-0 text-small pt-1">© 2016-2021 220V Soluções Elétricas e Segurança Eletrônica. Todos os direitos reservados.</p>
 						</div>
 					</div>
 				</div>
